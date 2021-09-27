@@ -1,0 +1,5 @@
+﻿LibraryName,RelativePath,FolderName,GroupName,Permissions
+IBU,Projects/MyProName/Project Documentation,01 Architecture,MyProName PM,Full Control
+IBU,Projects/MyProName/Project Documentation,01 Architecture,MyProName Admins,Read
+IBU,Projects/MyProName/Project Documentation,01 Architecture,MyProName Team,Read
+IBU,Projects/MyProName/Project Documentation,02 Server Configuration,MyProName PM,Read
